@@ -1,4 +1,4 @@
-# Wallet Demo
+# Payment App
 
 A full-stack sample wallet for practicing account and transfer flows. Create an account, add clearly labeled demo funds, find another user, review a transfer before sending it, and search transaction history with receipts.
 
